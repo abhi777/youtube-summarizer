@@ -3,7 +3,7 @@
 
 ##This is a Web Application developed using Python which can summarize a youtube video with the help of ChatGPT API.
 
-## To check out the live version of my Web App, [Click Here...]([https://youtubegpt-6wjmknlkh0r.streamlit.app/]
+## To check out the live version of my Web App, [Click Here...](https://youtubegpt-6wjmknlkh0r.streamlit.app/)
 
 ## Usage:
 1. Enter your ChatGPT API as Input.
